@@ -1,3 +1,13 @@
-[
+curl https://api.github.com/repos/abdalla-ab2004/mcino-Introduction-to-Git-and-GitHub/pulls
 
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1",
+    "head": {
+      "repo": {
+        "full_name": "abdalla-ab2004/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
 ]
