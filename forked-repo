@@ -1,3 +1,11 @@
+curl -s https://api.github.com/repos/abdalla-ab2004/mcino-Introduction-to-Git-and-GitHub | grep -i fork
+  "fork": true,
+  "forks_url": "https://api.github.com/repos/abdalla-ab2004/mcino-Introduction-to-Git-and-GitHub/forks",
+  "forks_count": 0,
+  "allow_forking": true,
+  "source": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
 {
   "id": 1050225087,
   "node_id": "R_kgDOPpkpvw",
